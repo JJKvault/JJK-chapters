@@ -1,10 +1,42 @@
 {
   "title": "Jujutsu Kaisen",
-  "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+  "description": "This is Shiba + TSanon's release ch134-148 and Shiba+Shimo+Iso's release 217 onwards.",
   "artist": "Akutami Gege",
-  "author": "",
+  "author": "Akutami Gege",
   "cover": "https://upload.wikimedia.org/wikipedia/en/4/46/Jujutsu_kaisen.jpg",
   "chapters": {
+    "134": {
+      "title": "134 The Shibuya Incident, Part 51",
+      "volume": "16",
+      "last_updated": "1679105159",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/sFfw9DC"
+      }
+    },
+    "135": {
+      "title": "135 The Shibuya Incident, Part 52",
+      "volume": "16",
+      "last_updated": "1679105259",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/4WEzfHp"
+      }
+    },
+    "136": {
+      "title": "136 The Shibuya Incident, Part 53",
+      "volume": "16",
+      "last_updated": "1679105342",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/V2PmKzv"
+      }
+    },
+    "139": {
+      "title": "139 Hunter",
+      "volume": "16",
+      "last_updated": "1679105420",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/567AP02"
+      }
+    },
     "144": {
       "title": "144 That Place",
       "volume": "17",
@@ -16,28 +48,9 @@
     "217": {
       "title": "217 Bath (2)",
       "volume": "",
-      "last_updated": "1679102890",
+      "last_updated": "1679105135",
       "groups": {
-        "Shishiso": [
-          "https://i.imgur.com/4q0oXKy.png",
-          "https://i.imgur.com/9laFpmu.jpg",
-          "https://i.imgur.com/O8VuuuE.png",
-          "https://i.imgur.com/931cinW.png",
-          "https://i.imgur.com/ih6CWLt.png",
-          "https://i.imgur.com/GqseTVT.png",
-          "https://i.imgur.com/ejpJDqv.png",
-          "https://i.imgur.com/6GgSh4p.png",
-          "https://i.imgur.com/lB3CqGC.png",
-          "https://i.imgur.com/YrDLYLo.png",
-          "https://i.imgur.com/rh2tiGH.jpg",
-          "https://i.imgur.com/YgnWJV9.png",
-          "https://i.imgur.com/zq4b4dA.png",
-          "https://i.imgur.com/A2OMln4.png",
-          "https://i.imgur.com/as3fYtn.png",
-          "https://i.imgur.com/mcslYyF.png",
-          "https://i.imgur.com/WE6iAvJ.png",
-          "https://i.imgur.com/Xz6CH4T.png"
-        ]
+        "Shishiso": "/proxy/api/imgur/chapter/xNCWQnl"
       }
     }
   }
