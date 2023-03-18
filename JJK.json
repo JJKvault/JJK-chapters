@@ -1,6 +1,6 @@
 {
   "title": "Jujutsu Kaisen",
-  "description": "This is Shiba+TSanon's release from ch134-148 and Shiba+Shimo+Iso's release from 217 onwards.",
+  "description": "This is Shiba+TSanon's release from ch134-148 and Shiba+Shimo+Iso's release from 217 onwards. There's no release for ch137 and 138 because the official came out before any fangroup released anything.",
   "artist": "Akutami Gege",
   "author": "Akutami Gege",
   "cover": "https://upload.wikimedia.org/wikipedia/en/4/46/Jujutsu_kaisen.jpg",
@@ -75,6 +75,38 @@
       "last_updated": "1679103502",
       "groups": {
         "/a/non": "/proxy/api/imgur/chapter/hBLFp0x"
+      }
+    },
+    "145": {
+      "title": "145 The Back",
+      "volume": "17",
+      "last_updated": "1679107115",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/W82urV2"
+      }
+    },
+    "146": {
+      "title": "146 About the Culling Game",
+      "volume": "17",
+      "last_updated": "1679107163",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/D14T97G"
+      }
+    },
+    "147": {
+      "title": "147 Even A Panda // Even Pandas",
+      "volume": "17",
+      "last_updated": "1679107227",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/5HdPcPK"
+      }
+    },
+    "148": {
+      "title": "148 Be Fully Prepared // Perfect Preparation",
+      "volume": "17",
+      "last_updated": "1679107283",
+      "groups": {
+        "/a/non": "/proxy/api/imgur/chapter/NIW17De"
       }
     },
     "217": {
