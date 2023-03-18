@@ -1,6 +1,6 @@
 {
   "title": "Jujutsu Kaisen",
-  "description": "This is Shiba + TSanon's release ch134-148 and Shiba+Shimo+Iso's release 217 onwards.",
+  "description": "This is Shiba+TSanon's release from ch134-148 and Shiba+Shimo+Iso's release from 217 onwards.",
   "artist": "Akutami Gege",
   "author": "Akutami Gege",
   "cover": "https://upload.wikimedia.org/wikipedia/en/4/46/Jujutsu_kaisen.jpg",
@@ -42,7 +42,7 @@
       "volume": "17",
       "last_updated": "1679103502",
       "groups": {
-        "Shishiso": "/proxy/api/imgur/chapter/hBLFp0x"
+        "/a/non": "/proxy/api/imgur/chapter/hBLFp0x"
       }
     },
     "217": {
