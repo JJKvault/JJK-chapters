@@ -1,5 +1,5 @@
 {
-  "title": "Jujutsu Kaisen",
+  "title": "Jujutsu Kaisen [Shishiso]",
   "description": "This is Shiba+TSanon's release from ch134-148 and Shiba+Shimo+Iso's release from 217 onwards. Shiba also worked with TCB from 154-216 but those can just be read on their website.",
   "artist": "Akutami Gege",
   "author": "Akutami Gege",
@@ -303,6 +303,14 @@
       "last_updated": "1696529593",
       "groups": {
         "Shishiso": "/proxy/api/imgur/chapter/fbnd0re"
+      }
+    },
+    "239": {
+      "title": "Stupid Survivor!!",
+      "volume": "",
+      "last_updated": "1697730713",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/JLM6zuX"
       }
     }
   }
