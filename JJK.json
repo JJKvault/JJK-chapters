@@ -1,6 +1,6 @@
 {
   "title": "Jujutsu Kaisen [Shishiso]",
-  "description": "Status: On hiatus while TLQC is busy with irl. Ch 243-248 are done, just missing finaly check from TLQC. Working on 249 now. \nThis is Shiba+TSanon's release from ch134-148. Shiba also worked with TCB from 154-187 and then Shiba+Shimo+Iso from 188-216. Those chapters can just be read on their website. We separated from TCB starting 217 onwards and put our own release here.",
+  "description": "This is Shiba+TSanon's release from ch134-148. Shiba also worked with TCB from 154-187 and then Shiba+Shimo+Iso from 188-216. Those chapters can just be read on their website. We separated from TCB starting 217 onwards and put our own release here.",
   "artist": "Akutami Gege",
   "author": "Akutami Gege",
   "cover": "https://upload.wikimedia.org/wikipedia/en/4/46/Jujutsu_kaisen.jpg",
@@ -335,6 +335,54 @@
       "last_updated": "1700212779",
       "groups": {
         "Shishiso": "/proxy/api/imgur/chapter/zvWsHgN"
+      }
+    },
+    "243": {
+      "title": "Pinchan",
+      "volume": "",
+      "last_updated": "1707875019",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/sfI85Tv"
+      }
+    },
+    "244": {
+      "title": "Devil's ground, Shinjuku showdown (16)",
+      "volume": "",
+      "last_updated": "1707876609",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/Ju1E2LY"
+      }
+    },
+    "245": {
+      "title": "Devil's ground, Shinjuku showdown (17)",
+      "volume": "",
+      "last_updated": "1707876714",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/tiW0brq"
+      }
+    },
+    "246": {
+      "title": "Devil's ground, Shinjuku showdown (18)",
+      "volume": "",
+      "last_updated": "1707878340",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/8xj2sXA"
+      }
+    },
+    "247": {
+      "title": "Devil's ground, Shinjuku showdown (19)",
+      "volume": "",
+      "last_updated": "1707879576",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/WynzJ8Z"
+      }
+    },
+    "248": {
+      "title": "Devil's ground, Shinjuku showdown (20)",
+      "volume": "",
+      "last_updated": "1707882051",
+      "groups": {
+        "Shishiso": "/proxy/api/imgur/chapter/YYi8NIo"
       }
     }
   }
